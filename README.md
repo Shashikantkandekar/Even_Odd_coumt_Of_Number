@@ -1,1 +1,1 @@
-# Even_Odd_coumt_Of_Number
+# Even_Odd_count_Of_Number
