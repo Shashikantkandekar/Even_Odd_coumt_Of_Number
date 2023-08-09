@@ -8,7 +8,7 @@ class Count
 
                 while(number>0)
                 {
-                        int reminder= number%10;
+                        int reminder= number%10;  
                         if(reminder%2==0)
                         {
                                 Even_Count++;
